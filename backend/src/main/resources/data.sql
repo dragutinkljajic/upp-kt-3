@@ -1,0 +1,1 @@
+INSERT INTO `db_camunda`.`user` (`id`, `city`, `email`, `first_name`, `is_reviewer`, `last_name`, `password`, `state`, `username`, `is_verified`) VALUES ('1', 'kula', 'admin@gmail.com', 'admin', b'1', 'admin', 'demo', 'srbija', 'demo', b'1');
